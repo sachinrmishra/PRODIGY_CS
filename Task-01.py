@@ -1,4 +1,3 @@
-
 def caesar_cipher_encrypt(text, shift):
     encrypted_text = ""
     for char in text:
